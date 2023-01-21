@@ -4,6 +4,7 @@
   "description": "patagum theme for vscode. marvelous palette of colors, no risk, no gum",
   "version": "0.0.1",
   "icon": "icon.png",
+  "publisher": "patagum",
   "repository": {
     "type": "git",
     "url": "https://github.com/patagum/vscode"
