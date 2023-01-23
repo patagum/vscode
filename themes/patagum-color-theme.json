@@ -13,6 +13,7 @@
 		"sideBar.background": "#1A1A1A",
 		"sideBarTitle.foreground": "#E6E6E6",
 		"statusBar.background": "#1A1A1A",
+		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBar.foreground": "#E6E6E6",
 		"tab.activeBackground": "#262626",
 		"tab.activeForeground": "#E6E6E6",
