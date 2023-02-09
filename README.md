@@ -1,16 +1,9 @@
-# patagum-for-vscode README
+<h3 align="center">
+<img src="https://user-images.githubusercontent.com/24394276/206763738-8c52853e-9ef0-4aad-8fc8-8b7f070c46bb.png" width="200" alt="logo">
 
-## Working with Markdown
+Patagum Theme for vscode
+</h3>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<p align="center">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/patagum?logoColor=%232888A6&style=for-the-badge">
+</p>
