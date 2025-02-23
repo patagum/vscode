@@ -15,13 +15,13 @@ jobs:
           cache: yarn
       - name: Package Extension
         id: packageExtension
-        uses: HaaLeo/publish-vscode-extension@v1
+        uses: HaaLeo/publish-vscode-extension@v2
         with:
           yarn: true
           pat: stub
           dryRun: true
       - name: Publish to Visual Studio Marketplace
-        uses: HaaLeo/publish-vscode-extension@v1
+        uses: HaaLeo/publish-vscode-extension@v2
         with:
           yarn: true
           pat: ${{ secrets.VS_MARKETPLACE_TOKEN }}
